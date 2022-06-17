@@ -1,0 +1,34 @@
+# market data
+https://chart3.spsystem.info/pserver/chartdata_query.php?days=1&second=5&prod_code=HSIZ2
+
+# Login
+Host : futures.spsystem.info
+AE ID: SPNICHOLAS
+pw : sp
+API account ID : NICHOLAS01
+pw : sp
+APP ID : 12346578
+License Key : 12346578
+
+Host : futures.spsystem.info
+AE ID: SPANSONLI
+pw : sp
+API account ID : ANSONLI01
+pw : sp
+APP ID : 12346578
+License Key : 12346578
+
+Host : futures.spsystem.info
+AE ID: SPHORACE
+pw : sp
+API account ID : HORACE01
+pw : sp
+APP ID : 12346578
+License Key : 12346578
+
+
+client api:
+http://192.168.123.221:9030
+
+price api:
+http://192.168.123.221:9032
